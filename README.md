@@ -6,4 +6,4 @@ No es asi! fue mi primer cambio ... Ahora modifico desde el editor en linea para
 hola
 cuarta modificacion: enlace de github desktop 24-06-21  9:37
 
-Commit desde visual studio 26-06-21   8:44 hrs v.2 .0
+Commit desde visual studio 26-06-21   8:44 hrs v.2 .0.1
